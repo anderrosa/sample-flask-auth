@@ -1,3 +1,9 @@
+# Ignorar a pasta .vscode
+.vscode/
+
+# Ignorar a pasta do ambiente virtual
+venv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
